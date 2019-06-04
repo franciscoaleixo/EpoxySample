@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EpoxySample</string>
+    <string name="appcardview_title_no_stars" translatable="false">- -</string>
+    <string name="button_header_more">more</string>
+    <string name="appc_card_short">APPCOINS</string>
+
+</resources>

@@ -1,0 +1,616 @@
+﻿[
+  {
+    "apps": [
+      {
+        "featureGraphic": "http://pool.img.aptoide.com/apps/aaf8000f40b619e51ffbe8ae0c57f140_fgraphic_705x345.png",
+        "appId": 45748541,
+        "downloads": 2769,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/2693157c812248bd8dcc8b1dcf7d1448_icon.png",
+        "name": "Pixel Shot 3D",
+        "packageName": "com.rubygames.blockbreaker",
+        "rating": 0.0,
+        "tag": "apps-group-editors-choice"
+      },
+      {
+        "featureGraphic": "http://pool.img.aptoide.com/apps/6ed536f07ff1d49cc0281f3843602376_fgraphic_705x345.png",
+        "appId": 45596273,
+        "downloads": 22154,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/9c8fe1395f871ec6b1d3520561c0beb9_icon.png",
+        "name": "Harry Potter:  Wizards Unite",
+        "packageName": "com.nianticlabs.hpwu.prod",
+        "rating": 4.0,
+        "tag": "apps-group-editors-choice"
+      },
+      {
+        "featureGraphic": "http://pool.img.aptoide.com/apps/1ae3bce32fd6928cfbb1b819f012c3bb_fgraphic_705x345.png",
+        "appId": 45775195,
+        "downloads": 15477,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/7bcf408b69b568d1ddc1b43c4828fa34_icon.png",
+        "name": "Rumble Stars Football",
+        "packageName": "com.frogmind.rumblestars",
+        "rating": 5.0,
+        "tag": "apps-group-editors-choice"
+      },
+      {
+        "featureGraphic": "http://pool.img.aptoide.com/bds-store/c340b24d71b0bea24e2ce6f0005a4eb5_fgraphic.jpg",
+        "appId": 45724065,
+        "downloads": 827055,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/bds-store/934b7cddfaf5d9773348dbe8e8d4d1c1_icon.png",
+        "name": "Family Farm Seaside",
+        "packageName": "com.funplus.familyfarm",
+        "rating": 4.12,
+        "tag": "apps-group-editors-choice"
+      },
+      {
+        "featureGraphic": "http://pool.img.aptoide.com/bds-store/5e1aabd085bb9e5b4c14fd69e95af45f_fgraphic_705x345.png",
+        "appId": 45225581,
+        "downloads": 488108,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/bds-store/5b1c6fbf347aabef464d0ac5d8d797e8_icon.png",
+        "name": "Color Bump 3D",
+        "packageName": "com.colorup.game",
+        "rating": 3.05,
+        "tag": "apps-group-editors-choice"
+      },
+      {
+        "featureGraphic": "http://pool.img.aptoide.com/apps/95079246201e19239471f6a8b6a9c21e_fgraphic_705x345.png",
+        "appId": 45759908,
+        "downloads": 4400,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/4a0d12193c44bc2a66e1bb9fbfe086de_icon.png",
+        "name": "Flip Runner",
+        "packageName": "com.motionvolt.fliprunner",
+        "rating": 0.0,
+        "tag": "apps-group-editors-choice"
+      },
+      {
+        "featureGraphic": "http://pool.img.aptoide.com/apps/cdf3951002505c9e26377061ed8c8f40_fgraphic_705x345.png",
+        "appId": 45707152,
+        "downloads": 22171,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/e818b6bd6bf7f6ebbabcf4a1708547a3_icon.png",
+        "name": "Color Hole 3D",
+        "packageName": "com.colorhole.game",
+        "rating": 0.0,
+        "tag": "apps-group-editors-choice"
+      },
+      {
+        "featureGraphic": "http://pool.img.aptoide.com/bds-store/3a72d519688955972e20d2ca97c08b42_fgraphic_705x345.png",
+        "appId": 45634466,
+        "downloads": 740050,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/bds-store/4f625ce3a118d11a927ef64aa427c0d7_icon.png",
+        "name": "Cut the Rope 2",
+        "packageName": "com.zeptolab.ctr2.f2p.google",
+        "rating": 5.0,
+        "tag": "apps-group-editors-choice"
+      },
+      {
+        "featureGraphic": "http://pool.img.aptoide.com/bds-store/a7046f6d87809d74e2508180aec600c4_fgraphic_705x345.png",
+        "appId": 43391280,
+        "downloads": 374447,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/bds-store/41c91ac8eba929e9f23aee2bfe1f58de_icon.png",
+        "name": "Era of Celestials",
+        "packageName": "com.gtarcade.eoa",
+        "rating": 4.07,
+        "tag": "apps-group-editors-choice"
+      },
+      {
+        "featureGraphic": "http://pool.img.aptoide.com/apps/73dbf73e61d821ceb4900475a0411204_fgraphic_705x345.png",
+        "appId": 45710397,
+        "downloads": 2117,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/d76389dd7399f211fe5575bccd7e825e_icon.png",
+        "name": "Evolution 2: Battle for Utopia",
+        "packageName": "com.my.evolution2",
+        "rating": 0.0,
+        "tag": "apps-group-editors-choice"
+      },
+      {
+        "featureGraphic": "http://pool.img.aptoide.com/apps/c4e83ad23c95f28a1752ebe72f9a8c4d_fgraphic_705x345.png",
+        "appId": 45674551,
+        "downloads": 7380,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/474dbda84dac5b93edd0bf47e781de1a_icon.png",
+        "name": "Animal Rescue 3D",
+        "packageName": "com.twistygames.animalrescue",
+        "rating": 5.0,
+        "tag": "apps-group-editors-choice"
+      },
+      {
+        "featureGraphic": "http://pool.img.aptoide.com/apps/c5b28040528546a8db9d6742f408ab62_fgraphic_705x345.png",
+        "appId": 45759952,
+        "downloads": 918,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/42f15139dbbdcfb6233dce5d94aad105_icon.png",
+        "name": "Legend of Blades",
+        "packageName": "com.epicwar.mir2.legend.game",
+        "rating": 0.0,
+        "tag": "apps-group-editors-choice"
+      }
+    ],
+    "tag": "apps-group-editors-choice",
+    "title": "Editors\u0027 Choice",
+    "type": "EDITORS"
+  },
+  {
+    "apps": [
+      {
+        "appId": 43102376,
+        "downloads": 49027,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/bds-store/37e3a8d3b8ae771c0f5d70fd23fe64ec_icon.png",
+        "name": "Dream Defense",
+        "packageName": "com.altitude.dreamdefense",
+        "rating": 3.83,
+        "tag": "appcoins-iab-featured"
+      },
+      {
+        "appId": 44005057,
+        "downloads": 35183,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/bds-store/62b4b6d13ef94010589f82025a19adb3_icon.png",
+        "name": "Word Mine",
+        "packageName": "com.twentyonecommunications.WordMine",
+        "rating": 3.67,
+        "tag": "appcoins-iab-featured"
+      },
+      {
+        "appId": 38990199,
+        "downloads": 963,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/asf-store/fdae76f5067ae192c909d39aaa44a604_icon.png",
+        "name": "Trivial Drive ASF Sample - Main Network",
+        "packageName": "com.asfoundation.trivialdrivesample",
+        "rating": 5.0,
+        "tag": "appcoins-iab-featured"
+      },
+      {
+        "appId": 42154716,
+        "downloads": 1325,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/bds-store/eab63bc9d75832dc234ebff6e1f27d9d_icon.png",
+        "name": "Helmetball - Jump and Run Platformer",
+        "packageName": "com.DEStudio.HelmetBall",
+        "rating": 5.0,
+        "tag": "appcoins-iab-featured"
+      },
+      {
+        "appId": 45782347,
+        "downloads": 35791,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/bds-store/695aaec76df89942a85d31612015ee89_icon.png",
+        "name": "Jump the Wall - Mexico USA : Catapult, Jump, Escape - Appcoins ed.",
+        "packageName": "de.bauerlive.jumpthewall",
+        "rating": 3.92,
+        "tag": "appcoins-iab-featured"
+      },
+      {
+        "appId": 41682659,
+        "downloads": 38242,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/bds-store/d00e63080c4b9ea1f3da0c8d9a40aaca_icon.png",
+        "name": "Red Runner",
+        "packageName": "com.appcoins.redrunner",
+        "rating": 4.4,
+        "tag": "appcoins-iab-featured"
+      },
+      {
+        "appId": 36033044,
+        "downloads": 900,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/asf-store/fdae76f5067ae192c909d39aaa44a604_icon.png",
+        "name": "Trivial Drive",
+        "packageName": "com.aptoide.trivialdrivesample",
+        "rating": 3.0,
+        "tag": "appcoins-iab-featured"
+      },
+      {
+        "appId": 38158482,
+        "downloads": 664,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/asf-store/26b38a9c9261869c667ec457be9c5fa1_icon.png",
+        "name": "Noblesse M",
+        "packageName": "gb.liveplex.noblessem",
+        "rating": 0.0,
+        "tag": "appcoins-iab-featured"
+      },
+      {
+        "appId": 38990251,
+        "downloads": 70,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/asf-store/d87038655d91f78c6c11491f0d3ac891_icon.png",
+        "name": "Trivial Drive ASF Sample - Ropsten Network",
+        "packageName": "com.asfoundation.trivialdrivesample.test",
+        "rating": 0.0,
+        "tag": "appcoins-iab-featured"
+      }
+    ],
+    "tag": "appcoins-iab-featured",
+    "title": "Featured AppCoins Apps (Ropsten)",
+    "type": "APPS"
+  },
+  {
+    "apps": [
+      {
+        "appId": 45724065,
+        "downloads": 827055,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/bds-store/934b7cddfaf5d9773348dbe8e8d4d1c1_icon.png",
+        "name": "Family Farm Seaside",
+        "packageName": "com.funplus.familyfarm",
+        "rating": 4.12,
+        "tag": "appcoins-iab-all"
+      },
+      {
+        "appId": 45634466,
+        "downloads": 740050,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/bds-store/4f625ce3a118d11a927ef64aa427c0d7_icon.png",
+        "name": "Cut the Rope 2",
+        "packageName": "com.zeptolab.ctr2.f2p.google",
+        "rating": 5.0,
+        "tag": "appcoins-iab-all"
+      },
+      {
+        "appId": 45225581,
+        "downloads": 488108,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/bds-store/5b1c6fbf347aabef464d0ac5d8d797e8_icon.png",
+        "name": "Color Bump 3D",
+        "packageName": "com.colorup.game",
+        "rating": 3.05,
+        "tag": "appcoins-iab-all"
+      },
+      {
+        "appId": 43391280,
+        "downloads": 374447,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/bds-store/41c91ac8eba929e9f23aee2bfe1f58de_icon.png",
+        "name": "Era of Celestials",
+        "packageName": "com.gtarcade.eoa",
+        "rating": 4.07,
+        "tag": "appcoins-iab-all"
+      },
+      {
+        "appId": 45253125,
+        "downloads": 321468,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/bds-store/4f7606ed8e8bdc14e0dfc7d5ef59a6cb_icon.png",
+        "name": "Mad GunZ - battle royale \u0026 shooting games.",
+        "packageName": "com.mad.gunz",
+        "rating": 4.03,
+        "tag": "appcoins-iab-all"
+      },
+      {
+        "appId": 45299922,
+        "downloads": 222713,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/bds-store/b03be6871a6340aeb823747c6d999813_icon.png",
+        "name": "Road Draw: Climb Your Own Hills",
+        "packageName": "com.stopper.hittheroad",
+        "rating": 1.0,
+        "tag": "appcoins-iab-all"
+      },
+      {
+        "appId": 45243080,
+        "downloads": 171744,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/bds-store/fe881cc30f5996521d0adb738c2210f4_icon.png",
+        "name": "Nox Cleaner - Phone Cleaner, Booster, Optimizer",
+        "packageName": "com.noxgroup.app.cleaner",
+        "rating": 4.76,
+        "tag": "appcoins-iab-all"
+      },
+      {
+        "appId": 42194858,
+        "downloads": 136849,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/bds-store/0d785300df6245ba4789611bb214dc15_icon.png",
+        "name": "MAXIMUM CAR",
+        "packageName": "com.dsancientgames.maximumcar",
+        "rating": 3.43,
+        "tag": "appcoins-iab-all"
+      },
+      {
+        "appId": 41910327,
+        "downloads": 136704,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/bds-store/0b3bd70baf447b410df4fa49276f31e5_icon.png",
+        "name": "Five Nights at Craft World",
+        "packageName": "com.mine.fivecraft",
+        "rating": 2.36,
+        "tag": "appcoins-iab-all"
+      }
+    ],
+    "tag": "appcoins-iab-all",
+    "title": "Use Your AppCoins (Ropsten)",
+    "type": "APPS"
+  },
+  {
+    "apps": [
+      {
+        "appId": 45692420,
+        "downloads": 66907,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/9ea040da928bdbdaee9b8361724b76f3_icon.png",
+        "name": "Lucky Craft: Adventure",
+        "packageName": "com.crafts.lucky",
+        "rating": 3.18,
+        "tag": "apps-group-trending"
+      },
+      {
+        "appId": 45534376,
+        "downloads": 38471,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/06fcccb9e87384b3bdfdb4d1bc0f8c74_icon.png",
+        "name": "Fast Euro Train 2019",
+        "packageName": "com.pin.cockpit.train.game",
+        "rating": 3.6,
+        "tag": "apps-group-trending"
+      },
+      {
+        "appId": 45598625,
+        "downloads": 85648,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/apps/3162897387869793fe2c650a7e837f45_icon.png",
+        "name": "Bike Race X Speed",
+        "packageName": "com.bigcodegames.bikeracexspeed",
+        "rating": 3.0,
+        "tag": "apps-group-trending"
+      },
+      {
+        "appId": 45701063,
+        "downloads": 25445,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/57bd949cda1e8eb0a252327a9493d136_icon.png",
+        "name": "Pokémon Rumble Rush",
+        "packageName": "jp.pokemon.pokemonscrambleSP",
+        "rating": 4.43,
+        "tag": "apps-group-trending"
+      },
+      {
+        "appId": 45567754,
+        "downloads": 7201,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/ca03eb4208cd5073b6fd810f62a2da0b_icon.png",
+        "name": "Amazing Spider Boy",
+        "packageName": "com.recolab.spiderboyherosimonourasouf2",
+        "rating": 3.0,
+        "tag": "apps-group-trending"
+      },
+      {
+        "appId": 45674551,
+        "downloads": 8592,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/474dbda84dac5b93edd0bf47e781de1a_icon.png",
+        "name": "Animal Rescue 3D",
+        "packageName": "com.twistygames.animalrescue",
+        "rating": 5.0,
+        "tag": "apps-group-trending"
+      },
+      {
+        "appId": 45759908,
+        "downloads": 6330,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/4a0d12193c44bc2a66e1bb9fbfe086de_icon.png",
+        "name": "Flip Runner",
+        "packageName": "com.motionvolt.fliprunner",
+        "rating": 3.0,
+        "tag": "apps-group-trending"
+      },
+      {
+        "appId": 45772164,
+        "downloads": 6465,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/833fd4a1c7b67a5a7b0d8dd7c1c936f8_icon.png",
+        "name": "Castle Wreck",
+        "packageName": "com.orbitalknight.castlewreck",
+        "rating": 5.0,
+        "tag": "apps-group-trending"
+      },
+      {
+        "appId": 45707152,
+        "downloads": 25633,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/e818b6bd6bf7f6ebbabcf4a1708547a3_icon.png",
+        "name": "Color Hole 3D",
+        "packageName": "com.colorhole.game",
+        "rating": 0.0,
+        "tag": "apps-group-trending"
+      }
+    ],
+    "tag": "apps-group-trending",
+    "title": "Trending",
+    "type": "APPS"
+  },
+  {
+    "apps": [
+      {
+        "appId": 45786243,
+        "downloads": 26362373,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/hazel777/551fa6391067d619148088489333e1e7_icon.png",
+        "name": "Garena Free Fire",
+        "packageName": "com.dts.freefireth",
+        "rating": 4.11,
+        "tag": "apps-group-top-games"
+      },
+      {
+        "appId": 36177497,
+        "downloads": 7703828,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/ebcae3ade7ccb2d6cb338f9539554d08_icon.png",
+        "name": "Tic Tac Toe",
+        "packageName": "com.oliversride.tictactoe",
+        "rating": 3.65,
+        "tag": "apps-group-top-games"
+      },
+      {
+        "appId": 45769316,
+        "downloads": 26406613,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/mr-robot-games/09518f863fc075f3e789b42da706afca_icon.png",
+        "name": "ROBLOX",
+        "packageName": "com.roblox.client",
+        "rating": 4.68,
+        "tag": "apps-group-top-games"
+      },
+      {
+        "appId": 45791344,
+        "downloads": 2445555,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/meh-sim/717c29eda79f7c096ff31c2d187e45b9_icon.png",
+        "name": "Brawl Stars",
+        "packageName": "com.supercell.brawlstars",
+        "rating": 4.25,
+        "tag": "apps-group-top-games"
+      },
+      {
+        "appId": 45654205,
+        "downloads": 15427879,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/kirilldownload/82ac46b9f752f07d7b872757f071ea76_icon.png",
+        "name": "PUBG MOBILE",
+        "packageName": "com.tencent.ig",
+        "rating": 4.16,
+        "tag": "apps-group-top-games"
+      },
+      {
+        "appId": 45696248,
+        "downloads": 11100786,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/official-app/024d850d846d3240a75d2b1a3ec53ff1_icon.png",
+        "name": "Temple Run 2",
+        "packageName": "com.imangi.templerun2",
+        "rating": 4.29,
+        "tag": "apps-group-top-games"
+      },
+      {
+        "appId": 45567243,
+        "downloads": 34929038,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/mr-robot-games/693b325beff0b63d4bd11182ffa25a7e_icon.png",
+        "name": "Dream League Soccer 2017",
+        "packageName": "com.firsttouchgames.dls3",
+        "rating": 4.41,
+        "tag": "apps-group-top-games"
+      },
+      {
+        "appId": 45549187,
+        "downloads": 49730674,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/latestapk/fc255df60a352a0e1c5fa506db267424_icon.png",
+        "name": "Clash Royale",
+        "packageName": "com.supercell.clashroyale",
+        "rating": 4.42,
+        "tag": "apps-group-top-games"
+      },
+      {
+        "appId": 43770596,
+        "downloads": 8805695,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/hazel777/db1b987237ac9fd846564431319ba0d4_icon.png",
+        "name": "PUBG MOBILE LITE",
+        "packageName": "com.tencent.iglite",
+        "rating": 3.84,
+        "tag": "apps-group-top-games"
+      }
+    ],
+    "tag": "apps-group-top-games",
+    "title": "Top Games",
+    "type": "APPS"
+  },
+  {
+    "apps": [
+      {
+        "appId": 45618029,
+        "downloads": 47822,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/bds-store/e4f11d15e606aa8e7e6bcab1038f5919_icon.jpg",
+        "name": "Friday Night Multiplayer",
+        "packageName": "com.ToGamers.survival.multiplayer",
+        "rating": 4.17,
+        "tag": "apps-group-dracula-day"
+      },
+      {
+        "appId": 45608310,
+        "downloads": 22251,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/bds-store/d9d0c6def39727f0b9f411d8b54d6375_icon.png",
+        "name": "Zombies Attack 3D",
+        "packageName": "com.ujiproduction.attackzombie",
+        "rating": 3.5,
+        "tag": "apps-group-dracula-day"
+      },
+      {
+        "appId": 45579162,
+        "downloads": 932,
+        "hasBilling": true,
+        "icon": "http://pool.img.aptoide.com/bds-store/cf8a06ff258508d20225640809085748_icon.png",
+        "name": "Zombies vs Basketball: A Survival Game",
+        "packageName": "com.zabaron.zombiedunk",
+        "rating": 0.0,
+        "tag": "apps-group-dracula-day"
+      },
+      {
+        "appId": 45787346,
+        "downloads": 305392,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/f59b2277752acee55bc956e3d4a59cd4_icon.png",
+        "name": "Horror Hospital 2",
+        "packageName": "com.heisengame.hospitaltwo",
+        "rating": 3.55,
+        "tag": "apps-group-dracula-day"
+      },
+      {
+        "appId": 45787304,
+        "downloads": 2103,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/9f90d1e732770a562562cd02fa8bbdb9_icon.png",
+        "name": "Creepy Evil Granny : Scary Horror Game",
+        "packageName": "com.hgamesart.evilgranny",
+        "rating": 5.0,
+        "tag": "apps-group-dracula-day"
+      },
+      {
+        "appId": 45429319,
+        "downloads": 5831184,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/cc5e88ad1c6bb87558a383e7c528836b_icon.png",
+        "name": "Granny",
+        "packageName": "com.dvloper.granny",
+        "rating": 4.42,
+        "tag": "apps-group-dracula-day"
+      },
+      {
+        "appId": 42155821,
+        "downloads": 177769,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/bd6a679cff42ca645455bb50f503f3db_icon.png",
+        "name": "CASE: Animatronics - Horror game",
+        "packageName": "com.aleson.casefiveanimatronicsfnaf",
+        "rating": 4.37,
+        "tag": "apps-group-dracula-day"
+      },
+      {
+        "appId": 42584886,
+        "downloads": 914,
+        "hasBilling": false,
+        "icon": "http://pool.img.aptoide.com/apps/9ae7571a3116710443664e94d3afea07_icon.png",
+        "name": "Sophie\u0027s Curse: Horror Game",
+        "packageName": "com.trerplay.sophiescurse2",
+        "rating": 1.0,
+        "tag": "apps-group-dracula-day"
+      }
+    ],
+    "tag": "apps-group-dracula-day",
+    "title": "Dracula Day",
+    "type": "APPS"
+  }
+]

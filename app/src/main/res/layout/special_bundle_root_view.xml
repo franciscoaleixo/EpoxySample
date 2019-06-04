@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="16dp"
+    >
+  <ImageView
+      android:id="@+id/header"
+      android:layout_width="wrap_content"
+      android:layout_height="230dp"
+      android:layout_alignParentBottom="true"
+      android:src="@drawable/special_rv_header"
+      />
+
+  <ImageView
+      android:id="@+id/badges"
+      android:layout_width="wrap_content"
+      android:layout_height="230dp"
+      android:layout_alignParentBottom="true"
+      android:src="@drawable/special_rv_badges"
+      />
+
+  <ImageView
+      android:layout_width="wrap_content"
+      android:layout_height="229dp"
+      android:layout_alignParentRight="true"
+      android:layout_alignParentBottom="true"
+      android:src="@drawable/special_rv_bg"
+      />
+
+  <View
+      android:layout_width="280dp"
+      android:layout_height="237dp"
+      android:layout_alignParentRight="true"
+      android:background="@drawable/special_rv_gradient_fade"
+      android:layerType="software"
+      />
+
+  <View
+      android:id="@+id/bg_overlay"
+      android:layout_width="match_parent"
+      android:layout_height="237dp"
+      android:layout_alignParentRight="true"
+      android:background="#CC000000"
+      android:alpha="0"
+      android:layerType="software"
+      />
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="vertical"
+      >
+
+    <ViewStub
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <ViewStub
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inflatedId="@+id/recycler_view"
+        />
+
+  </LinearLayout>
+
+
+</RelativeLayout>

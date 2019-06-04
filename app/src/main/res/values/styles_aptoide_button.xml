@@ -1,0 +1,26 @@
+<resources>
+  <!--Big buttons-->
+  <!--Raised button-->
+  <style name="Aptoide.Button">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">@dimen/button_height</item>
+    <item name="android:textColor">?attr/raisedButtonTextColor</item>
+    <item name="android:fontFamily">?attr/buttonTextFont</item>
+    <item name="android:textSize">?attr/buttonTextSize</item>
+    <item name="android:textAllCaps">true</item>
+    <item name="android:background">@color/transparent</item>
+    <item name="colorControlHighlight">?attr/colorPrimaryDark</item>
+  </style>
+
+  <!-- Flat Button-->
+  <style name="Aptoide.Button.Flat">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">48dp</item>
+    <item name="android:textColor">#FE6446</item>
+    <item name="android:fontFamily">?attr/buttonTextFont</item>
+    <item name="android:textSize">?attr/buttonTextSize</item>
+    <item name="android:textAllCaps">true</item>
+  </style>
+
+
+</resources>

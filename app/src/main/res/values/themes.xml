@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="AppBaseTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+
+    <item name="colorPrimary">@color/default_orange_gradient_start</item>
+    <item name="colorPrimaryDark">@color/default_orange_gradient_end</item>
+    <item name="colorAccent">@color/aptoide_color_focused</item>
+    <item name="customColor">@color/default_orange_gradient_start</item>
+
+    <!--Buttons-->
+    <item name="raisedButtonBackground">@drawable/aptoide_gradient_rounded</item>
+    <item name="flatButtonBackground">@drawable/aptoide_gradient</item>
+    <item name="ghostButtonBackground">@drawable/btn_ghost_theme</item>
+    <item name="raisedButtonTextColor">@color/white</item>
+    <item name="buttonTextFont">roboto-medium</item>
+    <item name="buttonTextSize">14sp</item>
+    <item name="buttonTextSizeSmall">10sp</item>
+    <item name="installButtonBackground">@drawable/aptoide_gradient_rounded</item>
+    <item name="backgroundCard">@style/backgroundCardStyleLight</item>
+    <item name="android:foreground">?android:attr/selectableItemBackground</item>
+
+  </style>
+</resources>
