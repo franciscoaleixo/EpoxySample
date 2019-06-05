@@ -3,9 +3,6 @@ package com.fa.epoxysample.bundles.models
 import com.airbnb.epoxy.EpoxyModel
 import com.airbnb.epoxy.EpoxyModelGroup
 import com.fa.epoxysample.R
-import com.fa.epoxysample.bundles.models.carousels.AppCarouselModel_
-import com.fa.epoxysample.bundles.models.components.AppCardModel_
-import com.fa.epoxysample.bundles.models.components.TitleModel_
 import com.fa.epoxysample.others.AppHomeEvent
 import com.fa.epoxysample.others.HomeEvent
 import com.fa.epoxysample.others.model.Application
@@ -36,6 +33,8 @@ class AppsBundleModel(homeBundle: HomeBundle, eventsListener: PublishSubject<Hom
           }
       )
 
+      models.add(getCategoriesCarousel())
+
       // Creates carousel data
       val cardsModel = ArrayList<AppCardModel_>()
       for (app in homeBundle.content) {
@@ -59,6 +58,13 @@ class AppsBundleModel(homeBundle: HomeBundle, eventsListener: PublishSubject<Hom
 
 
       return models
+    }
+
+    private fun getCategoriesCarousel(): EpoxyModel<*> {
+      val chipsModel = ArrayList<ChipModel_>()
+      chipsModel.add(ChipModel_().id("id_tag1"))
+      chipsModel.add(ChipModel_().id("id_tag2"))
+      return AppCarouselModel_().id("tagsBundle" + Math.random()).models(chipsModel)
     }
   }
 }
