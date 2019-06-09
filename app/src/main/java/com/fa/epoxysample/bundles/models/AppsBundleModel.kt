@@ -3,6 +3,9 @@ package com.fa.epoxysample.bundles.models
 import com.airbnb.epoxy.EpoxyModel
 import com.airbnb.epoxy.EpoxyModelGroup
 import com.fa.epoxysample.R
+import com.fa.epoxysample.bundles.models.carousels.AppCarouselModel_
+import com.fa.epoxysample.bundles.models.components.AppCardModel_
+import com.fa.epoxysample.bundles.models.components.TitleModel_
 import com.fa.epoxysample.others.AppHomeEvent
 import com.fa.epoxysample.others.HomeEvent
 import com.fa.epoxysample.others.model.Application
@@ -23,48 +26,43 @@ class AppsBundleModel(homeBundle: HomeBundle, eventsListener: PublishSubject<Hom
       val models = ArrayList<EpoxyModel<*>>()
 
       // Adds title view
-      models.add(TitleModel_()
-          .id(homeBundle.title)
-          .homeBundle(homeBundle)
-          .moreClickListener { model, parentView, clickedView, position ->
-            eventsListener.onNext(
-                HomeEvent(model.homeBundle(), 0,
-                    HomeEvent.Type.MORE)) // TODO: Retrieve bundlePosition correctly
-          }
+      models.add(
+          TitleModel_()
+              .id(homeBundle.title)
+              .homeBundle(homeBundle)
+              .moreClickListener { model, parentView, clickedView, position ->
+                eventsListener.onNext(
+                    HomeEvent(model.homeBundle(), 0,
+                        HomeEvent.Type.MORE)) // TODO: Retrieve bundlePosition correctly
+              }
       )
-
-      models.add(getCategoriesCarousel())
 
       // Creates carousel data
       val cardsModel = ArrayList<AppCardModel_>()
       for (app in homeBundle.content) {
-        cardsModel.add(AppCardModel_()
-            .id(homeBundle.tag + (app as Application).appId)
-            .bundle(homeBundle)
-            .application(app)
-            .oneDecimalFormatter(oneDecimalFormatter)
-            .clickListener { model, parentView, clickedView, position ->
-              eventsListener.onNext(AppHomeEvent(model.application(), position, model.bundle(), 0,
-                  HomeEvent.Type.APP))
-            }
+        cardsModel.add(
+            AppCardModel_()
+                .id(homeBundle.tag + (app as Application).appId)
+                .bundle(homeBundle)
+                .application(app)
+                .oneDecimalFormatter(oneDecimalFormatter)
+                .clickListener { model, parentView, clickedView, position ->
+                  eventsListener.onNext(
+                      AppHomeEvent(model.application(), position, model.bundle(), 0,
+                          HomeEvent.Type.APP))
+                }
         )
       }
 
       // Adds carousel
-      models.add(AppCarouselModel_()
-          .id(homeBundle.title, homeBundle.tag) // Not a good way to do this
-          .initialPrefetchItemCount(5)
-          .models(cardsModel))
+      models.add(
+          AppCarouselModel_()
+              .id(homeBundle.title, homeBundle.tag) // Not a good way to do this
+              .initialPrefetchItemCount(5)
+              .models(cardsModel))
 
 
       return models
-    }
-
-    private fun getCategoriesCarousel(): EpoxyModel<*> {
-      val chipsModel = ArrayList<ChipModel_>()
-      chipsModel.add(ChipModel_().id("id_tag1"))
-      chipsModel.add(ChipModel_().id("id_tag2"))
-      return AppCarouselModel_().id("tagsBundle" + Math.random()).models(chipsModel)
     }
   }
 }
