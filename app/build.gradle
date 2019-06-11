@@ -4,14 +4,6 @@ apply plugin: 'kotlin-android-extensions'
 apply plugin: 'kotlin-kapt'
 
 android {
-    signingConfigs {
-        release {
-            storeFile file('C:\\Users\\Dpswtf\\Documents\\Koi-Images\\epoxysample.jks')
-            storePassword 'bestappstore'
-            keyAlias = 'epoxysample'
-            keyPassword 'bestappstore'
-        }
-    }
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.fa.epoxysample"
@@ -20,7 +12,6 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        signingConfig signingConfigs.release
     }
     buildTypes {
         release {
